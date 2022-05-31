@@ -1,3 +1,12 @@
+<div align="center">
+<p align="center">
+<h1>原项目已集成onepush</h1>
+ <h2>详见[ XiaoMiku01/fansMedalHelper ](https://github.com/XiaoMiku01/fansMedalHelper)</h2>
+</p>
+ </div>  
+ 
+---  
+
 <p align="center">
   <img src="https://s1.ax1x.com/2022/05/24/XPx1tx.png" width="200" height="200" alt="">
 </p>
